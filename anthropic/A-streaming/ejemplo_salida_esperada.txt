@@ -1,0 +1,8 @@
+texto: ¡Hola! Soy Claude. ¿En qué te ayudo hoy?
+stop_reason: end_turn
+input_tokens: 25
+output_tokens: 15
+texto: Las tres leyes de Newton son: inercia, fuerza y
+stop_reason: max_tokens
+input_tokens: 1200
+output_tokens: 12

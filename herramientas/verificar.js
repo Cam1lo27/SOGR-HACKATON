@@ -1,9 +1,4 @@
-// Verifica una salida (o genera la entrada oficial) con el mismo motor de la página de la prueba.
-// Busca la página HTML de la prueba en la carpeta que contiene el repositorio.
-// Uso:
-//   node verificar.js <id> "<nombre>" <codigo> salida_oficial.txt   -> dice si la salida es CORRECTA
-//   node verificar.js <id> "<nombre>" <codigo>                      -> imprime la entrada oficial
-// id: g1..g5 (Google A..E) o b1..b5 (Anthropic A..E)
+
 const fs = require('fs');
 const path = require('path');
 const [id, nombre, codigo, salida] = process.argv.slice(2);

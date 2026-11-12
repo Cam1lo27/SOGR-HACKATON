@@ -1,0 +1,24 @@
+texto: despacio despacio compila responde Bogotá despacio el calma servidor prueba gracias rápido servidor claude con respuesta compila lista
+stop_reason: max_tokens
+input_tokens: 2798
+output_tokens: 530
+texto: tinto está Bogotá despacio arepa datos calma
+stop_reason: stop_sequence
+input_tokens: 1659
+output_tokens: 726
+texto: servidor el café tinto prueba la el despacio rápido compila arepa mañana datos en Bogotá la café sin la lloverá sin modelo lloverá servidor tinto la en lista
+stop_reason: end_turn
+input_tokens: 3909
+output_tokens: 301
+texto: ¡vamos! con modelo en está
+stop_reason: end_turn
+input_tokens: 464
+output_tokens: 400
+texto: responde hola código despacio
+stop_reason: end_turn
+input_tokens: 3932
+output_tokens: 207
+texto: en sin código despacio en Bogotá café mañana ¿listo? Bogotá despacio la lista calma servidor está
+stop_reason: end_turn
+input_tokens: 3411
+output_tokens: 201

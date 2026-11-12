@@ -1,0 +1,8 @@
+tool_result toolu_01 84
+tool_result toolu_02 24 °C
+tool_result toolu_03 error: división por cero
+tool_result toolu_04 error: herramienta desconocida: traductor
+tool_result toolu_05 error: ciudad desconocida: Tunja
+tool_result toolu_06 -4
+final: En Medellín hacen 24 °C y 12 × 7 = 84.
+resumen: 6 llamadas, 3 errores

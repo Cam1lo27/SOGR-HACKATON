@@ -1,0 +1,5 @@
+{"stop_reason": "tool_use", "content": [{"type": "text", "text": "Voy a calcularlo."}, {"type": "tool_use", "id": "toolu_01", "name": "calculadora", "input": {"operacion": "multiplicar", "a": 12, "b": 7}}]}
+{"stop_reason": "tool_use", "content": [{"type": "tool_use", "id": "toolu_02", "name": "clima", "input": {"ciudad": "Medellín"}}, {"type": "tool_use", "id": "toolu_03", "name": "calculadora", "input": {"operacion": "dividir", "a": 10, "b": 0}}]}
+{"stop_reason": "tool_use", "content": [{"type": "text", "text": "Ahora traduzco."}, {"type": "tool_use", "id": "toolu_04", "name": "traductor", "input": {"texto": "hola"}}]}
+{"stop_reason": "tool_use", "content": [{"type": "tool_use", "id": "toolu_05", "name": "clima", "input": {"ciudad": "Tunja"}}, {"type": "tool_use", "id": "toolu_06", "name": "calculadora", "input": {"operacion": "restar", "a": 5, "b": 9}}]}
+{"stop_reason": "end_turn", "content": [{"type": "text", "text": "En Medellín hacen 24 °C y 12 × 7 = 84."}]}

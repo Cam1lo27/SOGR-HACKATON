@@ -3,15 +3,7 @@
 - **Participante:** Andres Camilo Vivas Baquero
 - **Código de la prueba:** `GOOGLE-03`
 - **Lenguaje:** Java
-- **Ejecución** (desde la carpeta de cada ejercicio): `cmd /c "java Main.java < entrada_oficial.txt"`
 
-| Ej. | Problema | Tema | Resultado |
-|---|---|---|---|
-| A | d1000000 | Ordenamiento y voraz | ✅ CORRECTA |
-| B | Moons and Umbrellas | Programación dinámica | ✅ CORRECTA |
-| C | Parenting Partnering Returns | Intervalos y voraz | ✅ CORRECTA |
-| D | Chain Reactions | Árboles y DFS | ✅ CORRECTA |
-| E | Bathroom Stalls | Eficiencia con números enormes | ✅ CORRECTA |
 
 ## Ingreso con nombre y código
 
@@ -19,7 +11,7 @@
 
 ## A · d1000000
 
-Solución: [google/A-d1000000/Main.java](google/A-d1000000/Main.java). Se ordenan los dados y cada uno alarga la escalera si tiene más caras que el largo actual.
+
 
 **Entrada oficial**
 
@@ -31,7 +23,6 @@ Solución: [google/A-d1000000/Main.java](google/A-d1000000/Main.java). Se ordena
 
 ## B · Moons and Umbrellas
 
-Solución: [google/B-moons-and-umbrellas/Main.java](google/B-moons-and-umbrellas/Main.java). Programación dinámica con el costo mínimo si el mural termina en C o en J.
 
 **Entrada oficial**
 
@@ -43,7 +34,7 @@ Solución: [google/B-moons-and-umbrellas/Main.java](google/B-moons-and-umbrellas
 
 ## C · Parenting Partnering Returns
 
-Solución: [google/C-parenting-partnering-returns/Main.java](google/C-parenting-partnering-returns/Main.java). Se ordenan las actividades por inicio y cada una va a quien esté libre; si nadie lo está, `IMPOSSIBLE`. Se acepta cualquier asignación válida.
+
 
 **Entrada oficial**
 
@@ -55,7 +46,7 @@ Solución: [google/C-parenting-partnering-returns/Main.java](google/C-parenting-
 
 ## D · Chain Reactions
 
-Solución: [google/D-chain-reactions/Main.java](google/D-chain-reactions/Main.java). Se recorre el árbol de las hojas a la raíz: la cadena de menor valor sube y las demás se cobran. Usa enteros de 64 bits.
+
 
 **Entrada oficial**
 
@@ -67,7 +58,7 @@ Solución: [google/D-chain-reactions/Main.java](google/D-chain-reactions/Main.ja
 
 ## E · Bathroom Stalls
 
-Solución: [google/E-bathroom-stalls/Main.java](google/E-bathroom-stalls/Main.java). Los tramos vacíos se agrupan por tamaño en lugar de simular cubículo por cubículo, así funciona con N hasta 10¹⁸.
+
 
 **Entrada oficial**
 
