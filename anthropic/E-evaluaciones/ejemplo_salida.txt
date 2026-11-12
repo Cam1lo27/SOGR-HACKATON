@@ -1,0 +1,5 @@
+geografia: 1/2
+idiomas: 1/1
+matematicas: 2/3
+seguridad: 1/2
+total: 5/8 (62.5%)
